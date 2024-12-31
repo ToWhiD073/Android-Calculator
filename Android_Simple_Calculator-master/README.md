@@ -1,8 +1,7 @@
 # Simple Calculator Android Application
 
 # Author
-Mahak Aggarwal
-
+Towhid Al faysal
 # Features
 The application provides basic calculation functionality – addition, subtraction, multiplication, division, modulus, power, and square root in addition to providing buttons for numbers, decimal point, ‘Clear’, and backspace.
 It uses string, colour, dimension and style resources. The base layout used in Constraint layout with components like LinearLayout, TextViews, Buttons, and ImageButton. There are two layouts – one for portrait mode and one for landscape mode.
@@ -23,12 +22,6 @@ Android Studio Version: 3.1.4
 Gradle Version: 4.6
 Minimum Android SDK: 19
 Target Android SDK: 28
-
-# Screenshots
-![Main UI](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Main%20UI.png)
-
-![Calculation being performed 1](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Operation%201.png)
-![Calculation being performed 2](https://github.com/MahakAggarwal/Android_Simple_Calculator/blob/master/Images/Result%201.png)
 
 
 # Usage
